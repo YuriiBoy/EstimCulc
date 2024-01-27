@@ -1,0 +1,13 @@
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\bin\Debug\EstimateCalculator.exe.config
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\bin\Debug\EstimateCalculator.exe
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\bin\Debug\EstimateCalculator.pdb
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\obj\Debug\EstimateCalculator.csproj.AssemblyReference.cache
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\obj\Debug\EstimateCalculator.Form1.resources
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\obj\Debug\EstimateCalculator.Properties.Resources.resources
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\obj\Debug\EstimateCalculator.csproj.GenerateResource.cache
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\obj\Debug\EstimateCalculator.csproj.CoreCompileInputs.cache
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\obj\Debug\EstimateCalculator.exe
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\obj\Debug\EstimateCalculator.pdb
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\obj\Debug\EstimateCalculator.AddCircles.resources
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\obj\Debug\EstimateCalculator.AddRectangle.resources
+D:\step\C#\Desktop\EstimateCalculator\EstimateCalculator\obj\Debug\EstimateCalculator.AddTriangle.resources
